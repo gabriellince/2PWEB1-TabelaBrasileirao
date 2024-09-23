@@ -1,1 +1,1 @@
-# WEB1-TabelaBrasileir-o
+Este repositório contém a entrega do trabalho acadêmico da disciplina Web 1, do 2º período, sob a orientação do professor Érico Borgonove. O projeto consiste na replicação da tabela oficial do Campeonato Brasileiro de Futebol.
